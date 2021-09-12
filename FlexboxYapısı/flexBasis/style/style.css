@@ -1,0 +1,26 @@
+.container{
+	 background-color: yellow;
+	 height: 450px;
+	 display: flex;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	color: white;
+	flex-basis: 25%;
+}
+.box2{
+	width: 120px;
+	max-width: 120px;
+	height: 100px;
+	background-color: red;
+	color: white;
+	flex-basis: 150px;
+}
+.box3{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	color: white;
+}

@@ -1,0 +1,14 @@
+.container {
+    background-color: yellow;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    box-sizing: border-box;
+}

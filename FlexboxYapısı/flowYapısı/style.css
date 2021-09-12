@@ -1,0 +1,17 @@
+.container {
+    background-color: yellow;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: flex-end;
+    flex-flow: column wrap;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+}

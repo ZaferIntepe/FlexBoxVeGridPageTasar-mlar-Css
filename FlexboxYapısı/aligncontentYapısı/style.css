@@ -1,0 +1,16 @@
+.container {
+    background-color: yellow;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    align-content: space-around;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}

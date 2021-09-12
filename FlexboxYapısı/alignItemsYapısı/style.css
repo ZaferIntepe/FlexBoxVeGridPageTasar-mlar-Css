@@ -1,0 +1,15 @@
+.container {
+    background-color: yellow;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+.box {
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+}

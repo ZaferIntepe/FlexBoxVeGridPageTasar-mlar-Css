@@ -1,0 +1,26 @@
+.container{
+	 background-color: yellow;
+	 height: 450px;
+	 display: flex;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	color: white;
+	flex-grow: 5;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	color: white;
+	flex-grow: 1;
+}
+.box3{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	color: white;
+	flex-grow: 1;
+}
